@@ -1,3 +1,16 @@
+
+* { /* Para formatat a págia toda - Tirar toda formatação.*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*Limite da borda da caixa*/
+
+}
+
 body{
-    background-color: aquamarine;
+    background-color:;
+}
+
+
+header .container {
+    
 }
