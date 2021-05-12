@@ -19,10 +19,15 @@ body{
 
 
 header .container{
+    display: flex; /* alinhar em tela*/ 
+    flex-direction: row; /* Mais  semantico, pois já vem assim*/ 
+    align-items: center;
+    justify-content: space-between; /*Alinhamento horizontal*/ 
     
 }
 
 header .logo {
+    margin-left: 5px;
     color: var(--vermelho);
     font-family: 'Arial Black', Times; /* na ausência de fonte arial usar a times*/
     font-size: 40px;
