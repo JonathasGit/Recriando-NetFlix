@@ -1,5 +1,11 @@
 
-* { /* Para formatat a págia toda - Tirar toda formatação.*/
+:root{ /* declarando variaveis no root*/ 
+     --vermelho: #E50914;
+     --preto: #141414;
+
+}
+
+ *{ /* Para formatar a págia toda - Tirar toda formatação.*/
     margin: 0;
     padding: 0;
     box-sizing: border-box; /*Limite da borda da caixa*/
@@ -7,10 +13,27 @@
 }
 
 body{
-    background-color: gray;
+    background-color: var(--preto);
+    font-family: 'Times New Roman', Times, serif;
 }
 
 
-header .container {
+header .container{
     
+}
+
+header .logo {
+    color: var(--vermelho);
+    font-family: 'Arial Black', Times; /* na ausência de fonte arial usar a times*/
+    font-size: 40px;
+}
+
+header nav a { /* Para tirar o sublinhado*/
+    text-decoration: none;
+    color: #AAA;
+    margin-right: 10px; /* Colocar um pouco a direita*/
+}
+
+header nav a:hover { /*Quando passar o mouse*/
+    color: #fff;
 }
