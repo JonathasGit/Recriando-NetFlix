@@ -12,9 +12,11 @@
 
 }
 
+/*Elementos base*/
 body{
     background-color: var(--preto);
     font-family: 'Times New Roman', Times, serif;
+    color: white;
 }
 
 
@@ -41,4 +43,13 @@ header nav a { /* Para tirar o sublinhado*/
 
 header nav a:hover { /*Quando passar o mouse*/
     color: #fff;
+}
+
+/*Filme principal*/
+.filme-principal{
+    font-size: 16px;
+    background: url('/img/capag2.jpg'); /*Colocar uma foto de fundo*/
+
+    height: 400px; /*Tamanho da caixa*/
+    background-size: cover; /*Pegar o tamanho da caixa toda*/
 }
