@@ -57,6 +57,13 @@ header nav a:hover { /*Quando passar o mouse*/
     flex-direction: column;
     justify-content: center; /*Alinhar no centro*/
     align-items: flex-start; /*Começar na esquerda*/
+}
 
+.filme-principal .descricao {
+    margin-bottom: 90px; 
 
+}
+
+.titulo {
+    font-size: 55px;
 }
