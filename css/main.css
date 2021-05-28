@@ -67,3 +67,9 @@ header nav a:hover { /*Quando passar o mouse*/
 .titulo {
     font-size: 55px;
 }
+
+.botao{
+    background-color: rgba(0,0,0,.50); /*Verde,vermelho, azul cores do rgba*/
+    border: none; /*Para tirar as bordas padrão*/
+    color: white;
+}
