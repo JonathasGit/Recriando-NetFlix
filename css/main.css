@@ -101,3 +101,10 @@ header nav a:hover { /*Quando passar o mouse*/
     width: 70%;
 
 }
+
+.box-filme{ /*Configurações da imagem no carroseel*/
+ height: 100%;
+ width: 100%;
+ display: block;
+
+}
