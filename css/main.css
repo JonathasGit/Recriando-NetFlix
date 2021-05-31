@@ -112,3 +112,14 @@ header nav a:hover { /*Quando passar o mouse*/
 .carrosel-filmes{
     margin-top: 5px;
 }
+
+.rodape{
+    text-align: center;
+    color: #3b3b3b;
+}
+
+.rodape :hover { /*Quando passar o mouse*/
+    color: #fff;
+}
+
+
