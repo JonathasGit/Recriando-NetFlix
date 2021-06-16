@@ -48,7 +48,7 @@ header nav a:hover { /*Quando passar o mouse*/
 /*Filme principal*/
 .filme-principal{
     font-size: 16px;
-    background: /*linear-gradient(rgba(0, 0, 0, .30),rgba(0, 0, 0, .50)10%), */ url('/img/youtube/foto12.jpeg'); /*Colocar uma foto de fundo*/
+    background: linear-gradient(rgba(0, 0, 0, .30),rgba(0, 0, 0, .50)10%),  url('/img/foto12.jpeg'); /*Colocar uma foto de fundo*/
 
     height: 400px; /*Tamanho da caixa*/
     background-size: cover; /*Pegar o tamanho da caixa toda*/
