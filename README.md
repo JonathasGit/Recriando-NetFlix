@@ -8,4 +8,4 @@ Com o Professor <a href="https://github.com/felipeAguiarCode"> Felipe Aguiar <a>
   
  Certificado : <a href="https://certificates.digitalinnovation.one/3142A2E2">Recriando a Interface do Netflix</a> 
   
-  Site Online: Em breve. 
+  Site Online: <a href="https://jonathasgit.github.io/Recriando-NetFlix/"> Jothur FLix aqui </a>
