@@ -1,6 +1,6 @@
 
 
-<h1>🚀🚀🚀🚧Projeto Recriando a interface da NetFlix🚧🚀🚀🚀 por <a href="https://digitalinnovation.one/sign-in"> Digital Innovation One</a><>
+<h1>🚀🚀🚀🚧Projeto Recriando a interface da NetFlix🚧🚀🚀🚀 por <a href="https://digitalinnovation.one/sign-in"> Digital Innovation One</a></h1>
 
 Com o Professor <a href="https://github.com/felipeAguiarCode"> Felipe Aguiar <a>.
   
