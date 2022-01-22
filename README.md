@@ -2,6 +2,9 @@
 
 <h1>🚀🚀🚀🚧Projeto Recriando a interface da NetFlix🚧🚀🚀🚀 por <a href="https://digitalinnovation.one/sign-in"> Digital Innovation One</a></h1>
 
+⚒️O que o curso vai abordar:⚒️
+
+
 Com o Professor <a href="https://github.com/felipeAguiarCode"> Felipe Aguiar <a>.
   
   Usamos nesse projeto HTML, CSS e JS. <br>
