@@ -1,6 +1,6 @@
 
 
-<h1>🚀🚀🚀🚧Projeto Recriando a interface da NetFlix🚧🚀🚀🚀 por <a href="https://digitalinnovation.one/sign-in"> Digital Innovation One</a></h1><br>
+<h1>🚀🚀🚧Projeto Recriando a interface da NetFlix🚧🚀🚀<br>
 
  <h3 align="center">⚒️O que o curso vai abordar:⚒️ </h3>
  <hr>
@@ -9,10 +9,13 @@
  <hr>
  
  
+ Projeto para Recriar a Interface de Netflix por <a href="https://digitalinnovation.one/sign-in"> Digital Innovation One</a></h1><br>
 Com o Professor <a href="https://github.com/felipeAguiarCode"> Felipe Aguiar <a>.
   
   Usamos nesse projeto HTML, CSS e JS. <br>
   
- Certificado : <a href="https://certificates.digitalinnovation.one/3142A2E2">Recriando a Interface do Netflix</a> 
+ 🎯Certificado : <a href="https://certificates.digitalinnovation.one/3142A2E2">Recriando a Interface do Netflix</a> 
   
-  Site Online: <a href="https://jonathasgit.github.io/Recriando-NetFlix/"> Jothur FLix aqui </a>
+  Site Online: <a href="https://jonathasgit.github.io/Recriando-NetFlix/"> Jothur FLix aqui </a><br>
+ 
+ <p align="center">©️ 2022 - :octocat: JonathasGit</p>
