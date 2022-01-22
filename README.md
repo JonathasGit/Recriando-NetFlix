@@ -1,6 +1,6 @@
 
 
-<h1>🚀🚀🚧Projeto Recriando a interface da NetFlix🚧🚀🚀<br>
+<h1 align="center">🚀🚀🚧Projeto Recriando a interface da NetFlix🚧🚀🚀<br>
 
  <h3 align="center">⚒️O que o curso vai abordar:⚒️ </h3>
  <hr>
