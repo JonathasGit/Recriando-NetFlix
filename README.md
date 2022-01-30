@@ -12,7 +12,7 @@
  Projeto para Recriar a Interface de Netflix por <a href="https://digitalinnovation.one/sign-in"> Digital Innovation One</a></h1><br>
 Com o Professor <a href="https://github.com/felipeAguiarCode"> Felipe Aguiar <a>.
   
-  Usamos nesse projeto HTML, CSS e JS. <br>
+
   
  🎯Certificado : <a href="https://certificates.digitalinnovation.one/3142A2E2">Recriando a Interface do Netflix</a> 
   
